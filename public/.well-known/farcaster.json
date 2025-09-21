@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "DeciSmart",
+    "subtitle": "Built with Zara",
+    "description": "DeciSmart is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://1b99ba3e37fb42cabd05740fb50c240a-4vhw.vercel.app",
+    "splashImageUrl": "https://1b99ba3e37fb42cabd05740fb50c240a-4vhw.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://1b99ba3e37fb42cabd05740fb50c240a-4vhw.vercel.app/image.png",
+    "tagline": "DeciSmart",
+    "screenshotUrls": [
+      "https://1b99ba3e37fb42cabd05740fb50c240a-4vhw.vercel.app/screenshot.png",
+      "https://1b99ba3e37fb42cabd05740fb50c240a-4vhw.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://1b99ba3e37fb42cabd05740fb50c240a-4vhw.vercel.app/api/webhook"
+  }
+}
